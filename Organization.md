@@ -1,4 +1,5 @@
 # Organization
+## Team work
 
 | Team member	 | Contribution | Verified by
 | --- | --- | --- |
@@ -22,8 +23,8 @@
 | Quentin Mananes | Write the Introduction | Fernando Tabernero
 | Quentin Mananes | Defined a structure for the document | Fernando Tabernero
 
-## Meeting Reports
-### Meeting-1
+# Meeting Reports
+## Meeting-1
 **Project:** Software Quality Assurance Assessment
 
 **Date and Time:** 08/03/2024 10:30 - 11:00
