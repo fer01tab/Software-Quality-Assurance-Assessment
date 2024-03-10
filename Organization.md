@@ -46,27 +46,27 @@ We have distributed the tasks and added dates to be able to complete them and we
 #### Action points
 | Nbr | Task | Responsible | Deadline |
 | --- | --- | --- | --- |
-| 1. | Research on Good practices for writing commits in Git | Fernando Tabernero | 11/03/2024 |
-| 2. | Implementation of Good practices for writing commits in Git | Fernando Tabernero | 17/03/2024 |
-| 3. | Implementation of Code reviews | Fernando Tabernero | 17/03/2024 |
-| 4. | Implementation of Good practices for writing commits in Git | Fernando Tabernero | 17/03/2024]
+| 1. | Research on Good practices for writing commits in Git | Fernando Tabernero | 14/03/2024 |
+| 2. | Implementation of Good practices for writing commits in Git | Fernando Tabernero | 24/03/2024 |
+| 3. | Implementation of Code reviews | Fernando Tabernero | 24/03/2024 |
+| 4. | Implementation of Good practices for writing commits in Git | Fernando Tabernero | 24/03/2024]
 | 5. | Creation of Milestone and issues| Fernando Tabernero | 09/03/2024 |
 | 6. | Meeting report | Fernando Tabernero | 09/03/2024 |
-| 7. | Research on Code Reviews | Arthur Azibi | 11/03/2024 |
-| 8. | Write half of Code Reviews | Arthur Azibi & Quentin Mananes | 15/03/2024 |
-| 9. | Write half of Task estimation in Scrum | Arthur Azibi & Quentin Mananes | 15/03/2024 |
-| 10. | Write the Good practices for writing commits in Git | Arthur Azibi | 15/03/2024 |
-| 11. | Standardised formatting across the document | Arthur Azibi | 17/03/2024 |
-| 12. | Research on Task estimation in Scrum | Quentin Mananes | 11/03/2024 |
-| 13. | Write the Introduction | Quentin Mananes | 15/03/2024 |
-| 14. | Defined a structure for the document | Quentin Mananes | 11/03/2024 |
+| 7. | Research on Code Reviews | Arthur Azibi | 14/03/2024 |
+| 8. | Write half of Code Reviews | Arthur Azibi & Quentin Mananes | 22/03/2024 |
+| 9. | Write half of Task estimation in Scrum | Arthur Azibi & Quentin Mananes | 22/03/2024 |
+| 10. | Write the Good practices for writing commits in Git | Arthur Azibi | 22/03/2024 |
+| 11. | Standardised formatting across the document | Arthur Azibi | 24/03/2024 |
+| 12. | Research on Task estimation in Scrum | Quentin Mananes | 14/03/2024 |
+| 13. | Write the Introduction | Quentin Mananes | 22/03/2024 |
+| 14. | Defined a structure for the document | Quentin Mananes | 14/03/2024 |
 
 #### Decisions Made
 1. Extra topic -> Good practices for writing commits in Git
 
 
 #### Next meeting
-**Date:** 11/01/2024 **Time:** 11:00
+**Date:** 14/03/2024 **Time:** 11:00
 
 #### Final comments
 There are no additional relevant comments.
