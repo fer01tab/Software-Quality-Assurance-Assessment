@@ -3,22 +3,22 @@
 
 | Team member	 | Contribution | Verified by
 | --- | --- | --- |
-| Fernando Tabernero | Created the project plan | Fernando Tabernero
-| Fernando Tabernero | Assigned tasks | Fernando Tabernero
-| Fernando Tabernero | Arranged meetings | Fernando Tabernero
-| Fernando Tabernero | Meeting reports | Fernando Tabernero
-| Fernando Tabernero | Milestone and issues | Fernando Tabernero
-| Fernando Tabernero | Research on Good practices for writing commits in Git | Fernando Tabernero
-| Fernando Tabernero | Implementation of Good practices for writing commits in Git | Fernando Tabernero
-| Fernando Tabernero | Implementation of Code reviews | Fernando Tabernero
-| Fernando Tabernero | Implementation of Good practices for writing commits in Git | Fernando Tabernero
+| Fernando Tabernero | Created the project plan | Arthur Azibi
+| Fernando Tabernero | Assigned tasks | Quentin Mananes
+| Fernando Tabernero | Arranged meetings | Quentin Mananes
+| Fernando Tabernero | Meeting reports | Arthur Azibi
+| Fernando Tabernero | Milestone and issues | Quentin Mananes
+| Fernando Tabernero | Research on Good practices for writing commits in Git | Arthur Azibi
+| Fernando Tabernero | Implementation of Good practices for writing commits in Git | Arthur Azibi
+| Fernando Tabernero | Implementation of Code reviews | Quentin Mananes
+| Fernando Tabernero | Implementation of Good practices for writing commits in Git | Arthur Azibi
 | Arthur Azibi | Research on Code Reviews | Fernando Tabernero
-| Arthur Azibi | Write half of Code Reviews | Arthur Azibi
-| Arthur Azibi | Write the Good practices for writing commits in Git | Arthur Azibi
+| Arthur Azibi | Write half of Code Reviews | Quentin Mananes
+| Arthur Azibi | Write the Good practices for writing commits in Git | Fernando Tabernero
 | Arthur Azibi | Write half of Task estimation in Scrum | Quentin Mananes
 | Arthur Azibi | Standardised formatting across the document | Fernando Tabernero
 | Quentin Mananes | Research on Task estimation in Scrum | Fernando Tabernero
-| Quentin Mananes | Write half of Task estimation in Scrum | Quentin Mananes
+| Quentin Mananes | Write half of Task estimation in Scrum | Arthur Azibi
 | Quentin Mananes | Write half of Code Reviews | Arthur Azibi
 | Quentin Mananes | Write the Introduction | Fernando Tabernero
 | Quentin Mananes | Defined a structure for the document | Fernando Tabernero
