@@ -1,4 +1,5 @@
 # Good practices for writing commits in Git
+## ideas
 - 1 Brevity and Clarity
 - 2 Descriptive Message
 - 3 Use the Imperative
